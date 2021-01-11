@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **python library**
 
-- 🎓 Studying **Btech IT**
+- 🤝 Studying **Btech IT**
 
--  💻 Competitive (Coder)
+- 📝 Competitive [Coder](Coder)
 
-- ⚡ I believe "If the Wind Blows I can Sleep"**
+- ⚡ Fun fact **I believe "If the Wind Blows I can Sleep"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
