@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Dev Project**
 
-- 🌱 I’m currently learning **python library**
+- 🌱 I’m currently learning **Python library**
 
 - 🎓 Studying **Btech IT**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gaurav-kumar-021134227/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav kumar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/gaurav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="gaurav" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rambo422" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gaurav" height="30" width="40" /></a>
 </p>
